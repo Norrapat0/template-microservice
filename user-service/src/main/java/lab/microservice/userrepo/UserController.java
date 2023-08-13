@@ -1,4 +1,4 @@
-package lab.microservice.sample;
+package lab.microservice.userrepo;
 
 import java.util.Optional;
 
